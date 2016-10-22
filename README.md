@@ -12,3 +12,9 @@ Alissar99
 # The Idea
 This idea was created 2016 at JugendHackt Berlin and was realized in 2 Days
 
+# Flask setup
+In Directory Â´MoodAnalyze/mood_analyzerÂ:
+
+    FLASK_APP=__init__.py
+    export FLASK_APP
+    flask run
